@@ -111,8 +111,8 @@
 <h2 align="center">Status & Trophy</h2>
 <div align="center"> 
   
-![](https://github-readme-stats.vercel.app/api?username=Noxi-root&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Noxi-root&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Noxi-root&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Noxi-root&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxi-root&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=Noxi-root&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Noxi-root&limit=5&theme=dark&combine_all_yearly_contributions=true)

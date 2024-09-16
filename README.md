@@ -81,6 +81,25 @@
 ###
 
 <br clear="both">
+<div align="center"> 
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+</div>
+
+
+<br clear="both">
+
+<div align="center">
+<h2>Visitors Counter</h2> <img src="https://profile-counter.glitch.me/Noxi-root/count.svg?"  />
+</div>
+
+###
+###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/0brfdedljl9pj7v1pjd9yi207">
@@ -89,23 +108,14 @@
 </div>
 
 ###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Noxi-root/Noxi-root/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="left">
-<h2>Visitors Counter:</h2> <img src="https://profile-counter.glitch.me/Noxi-root/count.svg?"  />
-</div>
-
-###
 <h2 align="center">Status & Trophy</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Noxi-root&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Noxi-root&theme=dark&hide_border=false)<br/>
+<div align="center"> 
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxi-root&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=Noxi-root&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Noxi-root&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  
+</div>

@@ -4,67 +4,57 @@
   <img height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNwOXdhczBqcDh6dGJyOWIycWVuOG5wcjZqZmNjdTBqZDczMm9sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XArziJdrv1Etg8a5HA/giphy-downsized-large.gif"  />
 </div>
 
-###
+<br clear="both">
+
+### Beyaz Miğferli Asker 👋 Umut Talip Pehlivan
+[![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/Noxi-root?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+<sub>
+<hr>
+Tutkulu bir şekilde Siber Güvenlik Penetrasyon Test Uzmanı olma yolunda gidiyorum, tabi ki bu yolculukta bir çok zorluk karşıma çıkacak veya yeni ufukları görmeme yardımcı olucak. Bu yolculukta deneyimlediğim tüm projeleri burada yayınlamak için sabırsızlanıyorum... :)
+</sub>
+
+<br><br> 
 
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Umut Talip Pehlivan</h1>
-
-###
-
-<h4 align="center">A passionate Cyber Security Penetration Tester from Turkey</h4>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Learning & Skills</h2>
+<h2 align="center">Yetenekler & Öğrenilmeye Devam Ediliyor</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=ps" height="32" alt="adobephotoshop logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=unity" height="32" alt="unity logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=ai" height="32" alt="adobeillustrator logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo"  />
-</div>
 
-###
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<br clear="both">
-
-<h2 align="center">Contact</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
+<br><br>
 
 <img align="left" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/297161e7-ff39-45af-9a0b-b0e8c5d14779/d7a49m3-43aa9e52-d55f-4e9b-9e5e-1fb185032414.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5NzE2MWU3LWZmMzktNDVhZi05YTBiLWIwZThjNWQxNDc3OVwvZDdhNDltMy00M2FhOWU1Mi1kNTVmLTRlOWItOWU1ZS0xZmIxODUwMzI0MTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7WBpe2y1xK1KDUS8Y4kS_godPU26EcuIwdd4xl2g0_E"  />
 
-###
+<br><br>
 
 <br clear="both">
 
@@ -83,7 +73,7 @@
 <br clear="both">
 <div align="center"> 
   
-### ✍️ Random Dev Quote
+### ✍️ Özlü Sözler
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
@@ -100,7 +90,7 @@
 <br clear="both">
 
 <div align="center">
-<h2>Visitors Counter</h2> <img src="https://profile-counter.glitch.me/Noxi-root/count.svg?"  />
+<h2>Ziyaretçi Sayacı</h2> <img src="https://profile-counter.glitch.me/Noxi-root/count.svg?"  />
 </div>
 
 ###
@@ -115,7 +105,7 @@
 </div>
 
 ###
-<h2 align="center">Trophy & Status</h2>
+<h2 align="center">Kupalar & İstatistikler</h2>
 <div align="center"> 
 
 ![](https://github-profile-trophy.vercel.app/?username=Noxi-root&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>

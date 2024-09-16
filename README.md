@@ -111,7 +111,7 @@
 <h2 align="center">Status & Trophy</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Noxi-root&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Noxi-root&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Noxi-root&theme=dark&hide_border=false)
 <div align="center"> 
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noxi-root&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>

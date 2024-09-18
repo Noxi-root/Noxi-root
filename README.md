@@ -69,11 +69,27 @@ Tutkulu bir şekilde Siber Güvenlik Penetrasyon Test Uzmanı olma yolunda gidiy
 <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/297161e7-ff39-45af-9a0b-b0e8c5d14779/d7a49lv-3d84a8ca-0b3e-44ea-a8c1-f04b1bdb3b8c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5NzE2MWU3LWZmMzktNDVhZi05YTBiLWIwZThjNWQxNDc3OVwvZDdhNDlsdi0zZDg0YThjYS0wYjNlLTQ0ZWEtYThjMS1mMDRiMWJkYjNiOGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4jXswfyFty06XHe26aKeSeO5r7W7BN-e4FgjdyJhd8g"  />
 
 ###
+<br clear="both">
+
+<div align="center">
+<h2>Ziyaretçi Sayacı</h2> <img src="https://profile-counter.glitch.me/Noxi-root/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/0brfdedljl9pj7v1pjd9yi207">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0brfdedljl9pj7v1pjd9yi207&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 <br clear="both">
 <div align="center"> 
   
-### ✍️ Özlü Sözler
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
@@ -84,24 +100,6 @@ Tutkulu bir şekilde Siber Güvenlik Penetrasyon Test Uzmanı olma yolunda gidiy
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
-
-
-<br clear="both">
-
-<div align="center">
-<h2>Ziyaretçi Sayacı</h2> <img src="https://profile-counter.glitch.me/Noxi-root/count.svg?"  />
-</div>
-
-###
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/0brfdedljl9pj7v1pjd9yi207">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0brfdedljl9pj7v1pjd9yi207&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
